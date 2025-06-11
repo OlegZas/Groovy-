@@ -20,7 +20,7 @@ Your first Groovy program can be as simple as this:
 
 **Output:**
 
-    Greetings from Groovy!
+   Oleg is in Groovy now!
 
 ---
 
