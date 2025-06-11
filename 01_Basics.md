@@ -8,11 +8,15 @@ This guide introduces the basic syntax of **Groovy**, starting with a simple Hel
 
 Your first Groovy program can be as simple as this:
 
+    // defining class in java style
     class Demo {
         static void main(String[] args) {
-            println('Greetings from Groovy!')
+            println('Oleg is in Groovy now!')
         }
     }
+    // in groovy class is not necessary
+    
+    println 'Oleg is in Groovy now!'
 
 **Output:**
 
