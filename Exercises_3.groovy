@@ -22,3 +22,9 @@ if (num > 0) {
     print("Your number is negative")
 }
 
+// *********************** 7/13/2025
+'''7.\tUse a ternary operator to assign a value to a variable based on the length of a string.'''
+def ozstring = 'OZ practicing groovy'
+def message
+message = ozstring.length() > 5 ? "very long" : 'short'
+println(message)
